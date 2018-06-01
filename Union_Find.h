@@ -1,4 +1,4 @@
-#ifndef
+#ifndef UnionFind
 #define UnionFind
 
 class UnionFind{
